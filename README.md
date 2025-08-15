@@ -1,24 +1,24 @@
-# Oi, eu sou a Vanessa 👋
+# Oi, eu sou a Vanessa Cezar 👋
 
 💻 Estudante de Ciência da Computação 
-📚 Aprendendo Java, C#, Python e Redes  
-🚀 Apaixonada por tecnologia e desafios
-
 ---
 
-## 🌟 Minhas habilidades
-- Java ☕
-- Python 🐍
-- C# ⚙️
-- Redes 🌐
-
----
-
-## 📊 Estatísticas do GitHub
 ![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessacezarn&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessacezarn&layout=compact&theme=dracula)
 
 ---
-
-✉️ **Contato:** [Meu LinkedIn](https://www.linkedin.com/in/seu-link) | [Meu Email](mailto:seuemail@email.com)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
