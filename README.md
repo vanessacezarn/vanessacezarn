@@ -1,16 +1,24 @@
-## Hi there 👋
+# Oi, eu sou a Vanessa 👋
 
-<!--
-**vanessacezarn/vanessacezarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Ciência da Computação 
+📚 Aprendendo Java, C#, Python e Redes  
+🚀 Apaixonada por tecnologia e desafios
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Minhas habilidades
+- Java ☕
+- Python 🐍
+- C# ⚙️
+- Redes 🌐
+
+---
+
+## 📊 Estatísticas do GitHub
+![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessacezarn&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessacezarn&layout=compact&theme=dracula)
+
+---
+
+✉️ **Contato:** [Meu LinkedIn](https://www.linkedin.com/in/seu-link) | [Meu Email](mailto:seuemail@email.com)
