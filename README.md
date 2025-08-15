@@ -1,5 +1,5 @@
 # Oi, eu sou a Vanessa Cezar 👋
-#### 🎓 Estudante de Ciência da Computação
+### 🎓 Estudante de Ciência da Computação
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
