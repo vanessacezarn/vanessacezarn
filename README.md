@@ -7,7 +7,3 @@ Tenho 23 anos e sou acadêmica do curso de Ciência da Computação na Universid
     height="140"
   />
 </p>
->
-
-
-
