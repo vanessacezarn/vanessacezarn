@@ -2,10 +2,12 @@
 Tenho 23 anos e sou acadêmica do curso de Ciência da Computação na Universidade Franciscana (UFN), em Santa Maria/RS, atualmente cursando o 5º semestre da graduação. Sou bolsista de Iniciação Científica do CNPq, atuando no projeto Rede Nacional de Mulheres na Nanociência. Além disso, sou voluntária no Laboratório de Práticas da UFN, participando de atividades acadêmicas e de apoio ao desenvolvimento de projetos.
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/convoychat">
-    <img height="140" align="center" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessacezarn&layout=compact&theme=radical&hide=jupyter%20notebook"/>
-    </a>
+  <img
+    src="https://github-readme-stats-git-main-anuraghazra.vercel.app/api/top-langs/?username=vanessacezarn&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook"
+    height="140"
+  />
 </p>
+>
+
 
 
