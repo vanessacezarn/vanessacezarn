@@ -19,7 +19,7 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessacezarn&layout=compact&theme=radical"/>
+       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanessacezarn&layout=compact&theme=radical"/>
       </td>
       <td width="50%" align="center">
       
