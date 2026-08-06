@@ -1,6 +1,6 @@
 ## Olá, eu sou a Vanessa Cezar 👋
 
-- Estou cursando o 5º semestre de Ciência da Computação na Universidade Franciscana (UFN).
+- Estou cursando o 6º semestre de Ciência da Computação na Universidade Franciscana (UFN).
 - Sou bolsista de Iniciação Científica do CNPq no projeto Rede Nacional de Mulheres na Nanociência, no qual atuo no desenvolvimento do site do projeto.
 - Sou voluntária no Laboratório de Práticas da UFN, participando de atividades acadêmicas e de apoio ao desenvolvimento de projetos.
 
