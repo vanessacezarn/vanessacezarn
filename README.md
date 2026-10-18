@@ -1,13 +1,19 @@
 ## Olá, eu sou a Vanessa Cezar 👋
 
-- Estou cursando o 6º semestre de Ciência da Computação na Universidade Franciscana (UFN).
-- Sou bolsista de Iniciação Científica do CNPq no projeto Rede Nacional de Mulheres na Nanociência, no qual atuo no desenvolvimento do site do projeto.
-- Sou voluntária no Laboratório de Práticas da UFN, participando de atividades acadêmicas e de apoio ao desenvolvimento de projetos.
+- 🎓 Estou cursando o 6º semestre de Ciência da Computação na Universidade Franciscana (UFN).
+- 👩‍💻 Atualmente, sou estagiária de Migração de Dados na GestãoDS, onde estou desenvolvendo conhecimentos e habilidades relacionados à área de dados e tecnologia.
+- 🌐 Fui bolsista de Iniciação Científica do CNPq, entre 2025 e 2026, no projeto Rede Nacional de Mulheres na Nanociência. Atualmente, atuo como voluntária no projeto, sendo responsável pelo desenvolvimento e pela manutenção do portal web.
+- 💻 Sou voluntária no Laboratório de Práticas da UFN, participando de atividades acadêmicas e de apoio ao desenvolvimento de projetos.
+
+Tenho interesse em desenvolvimento de software, bancos de dados e tecnologias que contribuam para a criação de soluções eficientes e para a resolução de problemas.
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-cezar-do-nascimento-8738b53b3/)
 [![Site do Projeto](https://img.shields.io/badge/Site%20do%20Projeto-C2185B?style=for-the-badge)](https://redemulheresnano.ufn.edu.br/)
-[![GitHub Laboratório](https://img.shields.io/badge/GitHub%20Laboratório-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laboratorio-de-Praticas-Computacao-UFN)
+[![GitHub Laboratório](https://img.shields.io/badge/GitHub%20Laborat%C3%B3rio-26364A?style=for-the-badge&logo=github&logoColor=white&labelColor=F36B35)](https://github.com/Laboratorio-de-Praticas-Computacao-UFN)
+[![Currículo Lattes](https://img.shields.io/badge/%F0%9F%93%84%20Curr%C3%ADculo%20Lattes-C8A2C8?style=for-the-badge&labelColor=C8A2C8)](http://lattes.cnpq.br/1475078313277089)
+
 
 </div>
 
@@ -19,7 +25,7 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vanessacezarn&layout=compact&theme=radical"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessacezarn&layout=compact&theme=radical" />
       </td>
       <td width="50%" align="center">
       
@@ -41,6 +47,5 @@
 ---
 
 ### Contato
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> LinkedIn: <a href="https://www.linkedin.com/in/vanessa-cezar-do-nascimento-8738b53b3/" target="_blank">Vanessa Cezar do Nascimento</a>
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18"/> Email: vanessa.cezarnascimento@hotmail.com
 
