@@ -10,7 +10,7 @@ Tenho interesse em desenvolvimento de software, bancos de dados e tecnologias qu
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-cezar-do-nascimento-8738b53b3/)
-[![Site do Projeto](https://img.shields.io/badge/Site%20do%20Projeto-C2185B?style=for-the-badge)](https://redemulheresnano.ufn.edu.br/)
+[![Portal da Rede](https://img.shields.io/badge/Portal%20da%20Rede-C2185B?style=for-the-badge)](https://redemulheresnano.ufn.edu.br/)
 [![GitHub Laboratório](https://img.shields.io/badge/GitHub%20Laborat%C3%B3rio-26364A?style=for-the-badge&logo=github&logoColor=white&labelColor=F36B35)](https://github.com/Laboratorio-de-Praticas-Computacao-UFN)
 [![Currículo Lattes](https://img.shields.io/badge/%F0%9F%93%84%20Curr%C3%ADculo%20Lattes-C8A2C8?style=for-the-badge&labelColor=C8A2C8)](http://lattes.cnpq.br/1475078313277089)
 
